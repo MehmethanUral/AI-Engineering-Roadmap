@@ -2,7 +2,7 @@
 
 This repository documents my journey to becoming an AI Engineer in 6 months. I am following a structured roadmap covering Python fundamentals, Mathematics for AI, Machine Learning, Deep Learning, and MLOps.
 
-> **Current Status:** Month 1 (Fundamentals) -  
+> **Current Status:** Month 2 (Machine Learning) -  
 > **Goal:** Consistent weekly projects and deep understanding of AI concepts.
 
 ---
@@ -11,8 +11,8 @@ This repository documents my journey to becoming an AI Engineer in 6 months. I a
 
 | Phase | Duration | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
-| **Phase 1** | Weeks 1-4 | **Python & AI Mathematics** (Fundamentals) | 🟡 In Progress |
-| **Phase 2** | Weeks 5-8 | **Machine Learning** (Regression, Classification, Clustering) | ⚪ Pending |
+| **Phase 1** | Weeks 1-4 | **Python & AI Mathematics** (Fundamentals) | ✅ Completed |
+| **Phase 2** | Weeks 5-8 | **Machine Learning** (Regression, Classification, Clustering) | 🟡 In Progress |
 | **Phase 3** | Weeks 9-12 | **Deep Learning** (Neural Networks, CNN, RNN) | ⚪ Pending |
 | **Phase 4** | Weeks 13-16 | **Specialization** (NLP, Computer Vision, RL) | ⚪ Pending |
 | **Phase 5** | Weeks 17-20 | **Deployment & MLOps** (Flask, Docker, Cloud) | ⚪ Pending |
