@@ -24,18 +24,18 @@ Week-06-Classification/
 How to Run
 1. Navigate to the directory:
 
-    '''bash
+    ```bash
 
     cd Month-02-MachineLearning/Week-06-Classification
 
 2. Install dependencies:
 
-    '''bash
+    ```bash
 
     pip install -r requirements.txt
 
 3. Run the script:
 
-    '''bash
+    ```bash
 
     python spam_classifier.ipynb
