@@ -20,7 +20,7 @@ Week-06-Classification/
 ├── spam_classifier.ipynb # Training and Evaluation Script
 ├── requirements.txt      # Dependencies
 └── README.md             # Documentation
-
+```
 How to Run
 1. Navigate to the directory:
 
